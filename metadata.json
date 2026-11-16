@@ -1,0 +1,6 @@
+{
+  "name": "Feather Flight FPV",
+  "description": "A first-person 3D slingshot destruction game with hold-to-charge launch, real-time bird-eye flight tracking, and 5 physics-driven levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
